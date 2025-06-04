@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sireen Al Ahmadieh</h1>
-- I’m currently learning **Computer Science**
+- I’m currently learning Computer Science
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
